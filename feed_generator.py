@@ -27,7 +27,6 @@ def generate_feed_item(filename):
     # get the file modified timestamp from file system
     filedate = datetime.datetime.fromtimestamp(os.path.getmtime(filename)).isoformat()
 
-    summary = lines[0].strip()
     full_text = "\n".join(lines)
     title = f"Words from {filedate}"
 
@@ -36,7 +35,7 @@ def generate_feed_item(filename):
     return f"""<entry>
     <title>{title}</title>
     <link href="{link}"/>
-    <summary>{summary}</summary>
+    <summary>{full_text}</summary>
     <updated>{filedate}</updated>
     <content type="text">{full_text}</content>
     <id>{link}</id>
