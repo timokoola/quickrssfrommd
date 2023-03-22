@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Timo Koola&#39;s word blog </title>
+  <subtitle>Just a RSS Feed of Finnish words</subtitle>
+  <link href="https://timokoola.github.io/quickrssfrommd/feed/feed.xml" rel="self"/>
+  <link href="https://timokoola.github.io/quickrssfrommd/"/>
+  <updated>2023-03-22T13:38:16.532401</updated>
+  <id>https://timokoola.github.io/quickrssfrommd/</id>
+  <author>
+    <name>Timo Koola</name>
+    <email>timo@timokoola.com</email>
+  </author>
+<entry>
+    <title>Words from 2023-03-22T14:16:49.952789</title>
+    <link href="https://timokoola.github.io/quickrssfrommd/markdown/prompts.1679487409.md"/>
+    <summary>## Prompts for 2023-03-21T22:33:48.576410</summary>
+    <updated>2023-03-22T14:16:49.952789</updated>
+    <content type="text">## Prompts for 2023-03-21T22:33:48.576410
+
+
+
+- pokka Astevaihtelu: k -> kk, kk -> k (plural nominatiivi nimentö mikä? kuka? monikossa -t)
+
+  pokat
+
+- kevät Astevaihtelu: _ -> _ (singular essiivi olento minä? millaisena? kenenä? -na, -nä)
+
+  keväänä
+
+- länsi Astevaihtelu: _ -> _ (singular essiivi olento minä? millaisena? kenenä? -na, -nä)
+
+  läntenä
+
+- maltaat Astevaihtelu: lt -> ll, ll -> lt (plural genetiivi omanto minkä? kenen? -n, -en, -in, -den, -ten, -tten)
+
+  maltaiden
+
+- sankaritar Astevaihtelu: t -> tt, tt -> t (plural translatiivi tulento miksi? millaiseksi? keneksi? -ksi -kse (omistusliitteen yhteydessä))
+
+  sankarittareksi
+
+- taival Astevaihtelu: p -> v, v -> p (singular genetiivi omanto minkä? kenen? -n, -en, -in, -den, -ten, -tten)
+
+  taipaleen
+
+- kilta Astevaihtelu: lt -> ll, ll -> lt (singular abessiivi vajanto mitä ilman? -tta, -ttä)
+
+  killatta
+
+- munaskuu Astevaihtelu: _ -> _ (plural essiivi olento minä? millaisena? kenenä? -na, -nä)
+
+  munaskuina
+
+- ripe Astevaihtelu: p -> pp, pp -> p (plural elatiivi sisäeronto mistä? kenestä? -sta, -stä)
+
+  rippeestä
+</content>
+    <id>https://timokoola.github.io/quickrssfrommd/markdown/prompts.1679487409.md</id>
+  </entry>
+  <entry>
+    <title>Words from 2023-03-22T14:16:51.502011</title>
+    <link href="https://timokoola.github.io/quickrssfrommd/markdown/prompts.md"/>
+    <summary>## Prompts for 2023-03-21T22:33:48.576410</summary>
+    <updated>2023-03-22T14:16:51.502011</updated>
+    <content type="text">## Prompts for 2023-03-21T22:33:48.576410
+
+- pokka Astevaihtelu: k -> kk, kk -> k (plural nominatiivi nimentö mikä? kuka? monikossa -t)
+
+- kevät Astevaihtelu: _ -> _ (singular essiivi olento minä? millaisena? kenenä? -na, -nä)
+
+- länsi Astevaihtelu: _ -> _ (singular essiivi olento minä? millaisena? kenenä? -na, -nä)
+
+- maltaat Astevaihtelu: lt -> ll, ll -> lt (plural genetiivi omanto minkä? kenen? -n, -en, -in, -den, -ten, -tten)
+
+- sankaritar Astevaihtelu: t -> tt, tt -> t (plural translatiivi tulento miksi? millaiseksi? keneksi? -ksi -kse (omistusliitteen yhteydessä))
+
+- nukke Astevaihtelu: k -> kk, kk -> k (singular nominatiivi nimentö mikä? kuka? monikossa -t)
+
+- taival Astevaihtelu: p -> v, v -> p (singular genetiivi omanto minkä? kenen? -n, -en, -in, -den, -ten, -tten)
+
+- kilta Astevaihtelu: lt -> ll, ll -> lt (singular abessiivi vajanto mitä ilman? -tta, -ttä)
+
+- munaskuu Astevaihtelu: _ -> _ (plural essiivi olento minä? millaisena? kenenä? -na, -nä)
+
+- ripe Astevaihtelu: p -> pp, pp -> p (plural elatiivi sisäeronto mistä? kenestä? -sta, -stä)
+
+## Prompts for 2023-03-21T22:34:10.432517
+
+- savotta Astevaihtelu: t -> tt, tt -> t (plural nominatiivi nimentö mikä? kuka? monikossa -t)
+
+- mäki Astevaihtelu: k -> -, - -> k (singular nominatiivi nimentö mikä? kuka? monikossa -t)
+
+- abessiivi Astevaihtelu: _ -> _ (singular abessiivi vajanto mitä ilman? -tta, -ttä)
+
+- seiväs Astevaihtelu: p -> v, v -> p (singular translatiivi tulento miksi? millaiseksi? keneksi? -ksi -kse (omistusliitteen yhteydessä))
+
+- tuhat Astevaihtelu: _ -> _ (singular allatiivi ulkotulento mille? kenelle? -lle)
+
+- pitkittäisraita Astevaihtelu: t -> d, d -> t (plural allatiivi ulkotulento mille? kenelle? -lle)
+
+- pallas Astevaihtelu: lt -> ll, ll -> lt (singular inessiivi sisäolento missä? kenessä? -ssa, -ssä)
+
+- jäkälikkö Astevaihtelu: k -> kk, kk -> k (singular translatiivi tulento miksi? millaiseksi? keneksi? -ksi -kse (omistusliitteen yhteydessä))
+
+- väkä Astevaihtelu: k -> -, - -> k (plural ablatiivi ulkoeronto miltä? keneltä) -lta, -ltä)
+
+- terrakotta Astevaihtelu: t -> tt, tt -> t (plural inessiivi sisäolento missä? kenessä? -ssa, -ssä)
+
+## Prompts for 2023-03-21T20:46:35.548346
+
+- suljin Astevaihtelu: l -> k, k -> l (plural illatiivi sisätulento mihin? keneen? -loppuvokaalin pidentymä + n  -han, hen, hin, hon, hun, hyn, hän, hön  -seen, -siin)
+
+- säde Astevaihtelu: t -> d, d -> t (plural partitiivi osanto, eronto mitä? ketä? -a, -ä, -ta, -tä)
+
+- alempi Astevaihtelu: mp -> mm, mm -> mp (plural ablatiivi ulkoeronto miltä? keneltä) -lta, -ltä)
+
+- puolto Astevaihtelu: lt -> ll, ll -> lt (plural translatiivi tulento miksi? millaiseksi? keneksi? -ksi -kse (omistusliitteen yhteydessä))
+
+- viltti Astevaihtelu: t -> tt, tt -> t (singular abessiivi vajanto mitä ilman? -tta, -ttä)
+
+- pallas Astevaihtelu: lt -> ll, ll -> lt (singular ablatiivi ulkoeronto miltä? keneltä) -lta, -ltä)
+
+- nurkua Astevaihtelu: k -> -, - -> k (singular inessiivi sisäolento missä? kenessä? -ssa, -ssä)
+
+- huuhdonta Astevaihtelu: nt -> nn, nn -> nt (singular ablatiivi ulkoeronto miltä? keneltä) -lta, -ltä)
+
+- koukku Astevaihtelu: k -> kk, kk -> k (plural nominatiivi nimentö mikä? kuka? monikossa -t)
+
+- kanavointi Astevaihtelu: nt -> nn, nn -> nt (singular partitiivi osanto, eronto mitä? ketä? -a, -ä, -ta, -tä)
+
+## Prompts for 2023-03-22T01:07:05.487358
+
+- kremppa Astevaihtelu: p -> pp, pp -> p (singular abessiivi vajanto mitä ilman? -tta, -ttä)
+
+- kahdeksaskymmenes Astevaihtelu: _ -> _ (plural genetiivi omanto minkä? kenen? -n, -en, -in, -den, -ten, -tten)
+
+- vastasyntynyt Astevaihtelu: _ -> _ (singular adessiivi ulko-olento millä? kenellä? -lla, -llä)
+
+- paalujuntta Astevaihtelu: t -> tt, tt -> t (plural elatiivi sisäeronto mistä? kenestä? -sta, -stä)
+
+- merta Astevaihtelu: rt -> rr, rr -> rt (singular adessiivi ulko-olento millä? kenellä? -lla, -llä)
+
+- politbyroo Astevaihtelu: _ -> _ (singular nominatiivi nimentö mikä? kuka? monikossa -t)
+
+- kartutus Astevaihtelu: _ -> _ (plural ablatiivi ulkoeronto miltä? keneltä) -lta, -ltä)
+
+- tau Astevaihtelu: _ -> _ (plural genetiivi omanto minkä? kenen? -n, -en, -in, -den, -ten, -tten)
+
+- luokka Astevaihtelu: k -> kk, kk -> k (singular allatiivi ulkotulento mille? kenelle? -lle)
+
+- ulappa Astevaihtelu: p -> pp, pp -> p (plural translatiivi tulento miksi? millaiseksi? keneksi? -ksi -kse (omistusliitteen yhteydessä))
+</content>
+    <id>https://timokoola.github.io/quickrssfrommd/markdown/prompts.md</id>
+  </entry>
+  
+</feed>
